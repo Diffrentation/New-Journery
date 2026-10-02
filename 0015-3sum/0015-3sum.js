@@ -17,11 +17,14 @@ var threeSum = function(nums) {
             let sum=nums[i]+nums[left]+nums[right];
             if(sum==0){
                 res.push([nums[i],nums[left],nums[right]]);
+                // if found duplicate in left and right pointers then just increase the pointer;
                 while(nums[left]===nums[left+1]) left++;
                 while(nums[right]===nums[right-1]) right--;
+                // if no duplicate finds then also increse the pointer position
                 left++;
                 right--
             }
+            
             else if(sum<0){
                 left++;
             }
