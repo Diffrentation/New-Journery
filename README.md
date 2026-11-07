@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Diffrentation/New-Journery/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Diffrentation/New-Journery/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Diffrentation/New-Journery/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Diffrentation/New-Journery/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Diffrentation/New-Journery/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Diffrentation/New-Journery/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Diffrentation/New-Journery/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Diffrentation/New-Journery/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Diffrentation/New-Journery/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
