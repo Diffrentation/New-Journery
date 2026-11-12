@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Diffrentation/New-Journery/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Diffrentation/New-Journery/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Diffrentation/New-Journery/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Diffrentation/New-Journery/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Diffrentation/New-Journery/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Diffrentation/New-Journery/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
