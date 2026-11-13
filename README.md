@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Diffrentation/New-Journery/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Diffrentation/New-Journery/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Diffrentation/New-Journery/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Diffrentation/New-Journery/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Diffrentation/New-Journery/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
